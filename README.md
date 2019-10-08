@@ -4,8 +4,10 @@
 
 MultiThread Script
 
-[1] WordPress 
-[2] Joomla
-[3] DruPal
-[4] OpenCart
+[1] WordPress \n
+[2] Joomla \n
+[3] DruPal \n
+[4] OpenCart \n
 
+To run , \n
+Brute.py List.txt
