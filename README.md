@@ -2,12 +2,12 @@
 
 ![alt text](https://i.ibb.co/0CFcsbk/1.png)
 
-MultiThread Script
+<h2>MultiThread Script</h2>
 
-[1] WordPress \n
-[2] Joomla \n
-[3] DruPal \n
-[4] OpenCart \n
+[1] WordPress <br />
+[2] Joomla <br />
+[3] DruPal <br />
+[4] OpenCart <br />
 
-To run , \n
+To run , <br />
 Brute.py List.txt
